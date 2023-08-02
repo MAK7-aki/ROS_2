@@ -1,0 +1,40 @@
+[2.613s] Invoking command in '/home/tunga/dev_ws/src/py_pubsub': PYTHONPATH=/home/tunga/dev_ws/build/py_pubsub/prefix_override:/home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/tunga/dev_ws/build/py_pubsub/build install --record /home/tunga/dev_ws/build/py_pubsub/install.log --install-scripts $base/lib/py_pubsub --single-version-externally-managed
+[3.188s] running egg_info
+[3.188s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[3.189s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[3.190s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[3.190s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[3.190s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[3.190s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[3.206s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[3.274s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[3.275s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[3.276s] running build
+[3.276s] running build_py
+[3.276s] creating /home/tunga/dev_ws/build/py_pubsub/build
+[3.276s] creating /home/tunga/dev_ws/build/py_pubsub/build/lib
+[3.276s] creating /home/tunga/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[3.278s] copying py_pubsub/my_subscriber_node.py -> /home/tunga/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[3.278s] copying py_pubsub/my_publisher_node.py -> /home/tunga/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[3.279s] copying py_pubsub/__init__.py -> /home/tunga/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[3.279s] running install
+[3.282s] running install_lib
+[3.284s] creating /home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[3.284s] copying /home/tunga/dev_ws/build/py_pubsub/build/lib/py_pubsub/my_subscriber_node.py -> /home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[3.285s] copying /home/tunga/dev_ws/build/py_pubsub/build/lib/py_pubsub/my_publisher_node.py -> /home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[3.285s] copying /home/tunga/dev_ws/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[3.287s] byte-compiling /home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/my_subscriber_node.py to my_subscriber_node.cpython-38.pyc
+[3.290s] byte-compiling /home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/my_publisher_node.py to my_publisher_node.cpython-38.pyc
+[3.291s] byte-compiling /home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/__init__.py to __init__.cpython-38.pyc
+[3.292s] running install_data
+[3.293s] creating /home/tunga/dev_ws/install/py_pubsub/share/ament_index
+[3.293s] creating /home/tunga/dev_ws/install/py_pubsub/share/ament_index/resource_index
+[3.294s] creating /home/tunga/dev_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[3.294s] copying resource/py_pubsub -> /home/tunga/dev_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[3.294s] copying package.xml -> /home/tunga/dev_ws/install/py_pubsub/share/py_pubsub
+[3.294s] running install_egg_info
+[3.298s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[3.300s] running install_scripts
+[3.341s] Installing my_publisher script to /home/tunga/dev_ws/install/py_pubsub/lib/py_pubsub
+[3.342s] writing list of installed files to '/home/tunga/dev_ws/build/py_pubsub/install.log'
+[3.445s] Invoked command in '/home/tunga/dev_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/tunga/dev_ws/build/py_pubsub/prefix_override:/home/tunga/dev_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/tunga/dev_ws/build/py_pubsub/build install --record /home/tunga/dev_ws/build/py_pubsub/install.log --install-scripts $base/lib/py_pubsub --single-version-externally-managed
