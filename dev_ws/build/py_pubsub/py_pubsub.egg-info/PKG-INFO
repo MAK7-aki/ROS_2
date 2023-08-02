@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: py-pubsub
+Version: 0.0.0
+Summary: A minimal publisher/subscriber using ROS
+Home-page: UNKNOWN
+Maintainer: Tunga
+Maintainer-email: tungasystems2023@gmail.com
+License: Tunga License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
