@@ -1,0 +1,41 @@
+[1.744s] Invoking command in '/home/tunga/dev_ws/src/pkg_name': PYTHONPATH=/home/tunga/dev_ws/src/build/pkg_name/prefix_override:/home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/pkg_name build --build-base /home/tunga/dev_ws/src/build/pkg_name/build install --record /home/tunga/dev_ws/src/build/pkg_name/install.log --install-scripts $base/lib/pkg_name --single-version-externally-managed
+[2.313s] running egg_info
+[2.314s] creating ../build/pkg_name/pkg_name.egg-info
+[2.314s] writing ../build/pkg_name/pkg_name.egg-info/PKG-INFO
+[2.314s] writing dependency_links to ../build/pkg_name/pkg_name.egg-info/dependency_links.txt
+[2.315s] writing entry points to ../build/pkg_name/pkg_name.egg-info/entry_points.txt
+[2.316s] writing requirements to ../build/pkg_name/pkg_name.egg-info/requires.txt
+[2.316s] writing top-level names to ../build/pkg_name/pkg_name.egg-info/top_level.txt
+[2.318s] writing manifest file '../build/pkg_name/pkg_name.egg-info/SOURCES.txt'
+[2.383s] reading manifest file '../build/pkg_name/pkg_name.egg-info/SOURCES.txt'
+[2.384s] writing manifest file '../build/pkg_name/pkg_name.egg-info/SOURCES.txt'
+[2.385s] running build
+[2.385s] running build_py
+[2.385s] creating /home/tunga/dev_ws/src/build/pkg_name/build
+[2.386s] creating /home/tunga/dev_ws/src/build/pkg_name/build/lib
+[2.386s] creating /home/tunga/dev_ws/src/build/pkg_name/build/lib/pkg_name
+[2.387s] copying pkg_name/my_subscriber_node.py -> /home/tunga/dev_ws/src/build/pkg_name/build/lib/pkg_name
+[2.388s] copying pkg_name/my_publisher_node.py -> /home/tunga/dev_ws/src/build/pkg_name/build/lib/pkg_name
+[2.388s] copying pkg_name/__init__.py -> /home/tunga/dev_ws/src/build/pkg_name/build/lib/pkg_name
+[2.388s] running install
+[2.390s] running install_lib
+[2.392s] creating /home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages/pkg_name
+[2.392s] copying /home/tunga/dev_ws/src/build/pkg_name/build/lib/pkg_name/my_subscriber_node.py -> /home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages/pkg_name
+[2.393s] copying /home/tunga/dev_ws/src/build/pkg_name/build/lib/pkg_name/my_publisher_node.py -> /home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages/pkg_name
+[2.393s] copying /home/tunga/dev_ws/src/build/pkg_name/build/lib/pkg_name/__init__.py -> /home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages/pkg_name
+[2.394s] byte-compiling /home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages/pkg_name/my_subscriber_node.py to my_subscriber_node.cpython-38.pyc
+[2.398s] byte-compiling /home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages/pkg_name/my_publisher_node.py to my_publisher_node.cpython-38.pyc
+[2.399s] byte-compiling /home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages/pkg_name/__init__.py to __init__.cpython-38.pyc
+[2.399s] running install_data
+[2.401s] creating /home/tunga/dev_ws/src/install/pkg_name/share/ament_index
+[2.401s] creating /home/tunga/dev_ws/src/install/pkg_name/share/ament_index/resource_index
+[2.401s] creating /home/tunga/dev_ws/src/install/pkg_name/share/ament_index/resource_index/packages
+[2.402s] copying resource/pkg_name -> /home/tunga/dev_ws/src/install/pkg_name/share/ament_index/resource_index/packages
+[2.402s] copying package.xml -> /home/tunga/dev_ws/src/install/pkg_name/share/pkg_name
+[2.402s] running install_egg_info
+[2.405s] Copying ../build/pkg_name/pkg_name.egg-info to /home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages/pkg_name-0.0.0-py3.8.egg-info
+[2.407s] running install_scripts
+[2.448s] Installing my_publisher script to /home/tunga/dev_ws/src/install/pkg_name/lib/pkg_name
+[2.449s] Installing my_subscriber script to /home/tunga/dev_ws/src/install/pkg_name/lib/pkg_name
+[2.449s] writing list of installed files to '/home/tunga/dev_ws/src/build/pkg_name/install.log'
+[2.536s] Invoked command in '/home/tunga/dev_ws/src/pkg_name' returned '0': PYTHONPATH=/home/tunga/dev_ws/src/build/pkg_name/prefix_override:/home/tunga/dev_ws/src/install/pkg_name/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/pkg_name build --build-base /home/tunga/dev_ws/src/build/pkg_name/build install --record /home/tunga/dev_ws/src/build/pkg_name/install.log --install-scripts $base/lib/pkg_name --single-version-externally-managed
